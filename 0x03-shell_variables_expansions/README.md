@@ -1,1 +1,1 @@
-Create a script that creates a new global variable.
+8. Every addition to true knowledge is an addition to human power
