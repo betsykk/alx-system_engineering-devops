@@ -1,1 +1,1 @@
-8. Every addition to true knowledge is an addition to human power
+Write a script that displays the result of BREATH to the power LOVE
